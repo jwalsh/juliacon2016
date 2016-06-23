@@ -1,4 +1,1 @@
 forwarddiff.jl_fast_derivatives_made_easy_jarrett_revels
-
-- Sample functions used in external packages
-- Differentiation examples with chain and product rule
